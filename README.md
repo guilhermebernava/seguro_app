@@ -152,3 +152,7 @@ flutter run -d chrome
 - O app usa Flutter Modular para uma arquitetura limpa e modular.
 - O login é feito via Firebase Auth usando e-mail gerado a partir do CPF.
 - O app suporta persistência de login com `shared_preferences`.
+
+## Link do Deploy
+
+https://deploy-seguro-app-qzbo.vercel.app/#/home/
